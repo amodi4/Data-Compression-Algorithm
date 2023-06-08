@@ -1,1 +1,1 @@
-# HuffmanCoding
+# Data Compression Algorithm
